@@ -1,3 +1,3 @@
 # signalR-real-time-app
 
-# You Can my blog in the codehubs link -> https://www.thecodehubs.com/?p=23403 
+# You can watch my blog in thecodehubs link -> https://www.thecodehubs.com/?p=23403 
